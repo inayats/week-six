@@ -1,0 +1,33 @@
+# Exit Ticket
+
+I didn't realize just how technical this course would get when I signed up. It's a history course after all; I didn't expect to be working with coding languages within the first few weeks. As a non-history student, there's definitely an image in my mind of historians that does not include them being Python and R nerds.
+
+We have raced through a lot of new tools in this class, and I've used things I had never heard about, such as topic models and sonification. These have me thinking about history in a whole new way, beyond the traditional academic medium of text.
+
+On a personal level, I enjoyed the class and the weekly exercises. I did struggle with keeping up with the pace of work; I almost never accurately estimated how much time any piece of work would take. It was always more complicated than I thought. It was also a challenge to keep up in the virtual environment, without an in-person class or lab where we could more easily ask for help, or work with peers. The discord app solved some of that, where invariably someone else had hit the same roadblocks as me. 
+
+But the work was a bit lonely to do, under lockdown at home. Which is a good reminder for the importance of documenting our work, as this course tried to emphasize!
+
+Beyond the actual tools though, what I did not know anything about were the myriad ethical concerns and considerations that go into digital history. Some of it is shared in common with regular history work; but some of it is unique. What are the biases in the process of digitizing records? What is the role of unpaid volunteers in creating records? How does digital history include - or marginalize - certain voices? The thread by Amalia Skarlatou Levi right at the beginning of the course set the stage for these questions.
+
+We don't really think of all these things when we hear about an institution "digitizing" its records. It sounds like the natural next step to prepare for the online world - converting paper records into digital. But, this is not an objective process, and decisions made at the beginning have effects down the line.
+
+The same thread continued for me as we made decisions around how to extract records, clean them and analyze them. These are not straightforward process of importing a file and pushing one button; there are many steps involved in the work of digital history, just as there is as we work through a thesis in a written paper. 
+
+The key for me was: can my work be replicated? Am I able to provide enough documentation for digital work that would match the standards of citation of other research?
+
+During this course, we were asked to document all our steps, as an effort to achieve this level of citation. We also were asked to work in the Github environment, something I traditionally association with coders before this course. But the point of working in Github is to make our work, and the background to it, available transparently. It's a useful tool for any researcher working in a digital environment - coders AND historians.
+
+We also looked at analyzing our data, and then presenting it. I learned about tools like topic models, which are an interesting way to automate analysis over a large corpus of materials. But again, there is a lot of decisions we make that affect the outcome - we can choose the number of topics, and then we have to do the work of figuring out what the topics are (manually). 
+
+What I got here, however, was that the automation was an addition but not a complete replacement of traditional forms of analysis. The topic model tool could guess topics, but had no idea what the topics were. AntConc could find words in the text and show us associations, but did not know what it means. These tools were a way to assist in the close reading of large amounts of text, making these records accessible to us and quicker to analyze. But there was always some element of analysis we had to do ourselves.
+
+This course for me was actually three different courses (all complementing each other), on extracting, analysing and presenting data. The extraction part was the most useful for me, showing me tools I will use for my other classes and in my job. It also got me comfortable using code and command line tools, which opens up a world of possibilities.
+
+The analysis tools would need more practice, because while they would turn up interesting associations for me, I would need a second set of eyes before being confident in my conclusions. Using them for week 6 without the crutch of step-by-step instructions was a challenge, since I did not always know what I was looking for (another reminder that the software was not a replacement for having personal expertise).
+
+I hope to continue using many of these tools; they have been a gentle introduction into using automation to deal with a large amount of records. But most importantly for me, I've learned how to document my work and organize it in Github. I will be taking these practices from the course to future digital work I do - I muddled through such work in the past, until my laptop crashed with the weight of multiple tabs in windows. But now I will muddle through while documenting all the adventures!
+
+Finally, on the matter of grades, I won't put a suggestion here. This was not a traditional course; rather we were assessed in terms of our individual journeys. I have definitely gone out of my comfort zone and learned to work in a very different way with digital records over the past few weeks. I do not know how I compare in that journey with others in the course, many of whom were able to go much further. Despite struggling with the work, this course has made a lasting impression in how I see and work with digital history. 
+
+Thank you!
