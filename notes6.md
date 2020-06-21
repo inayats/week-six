@@ -40,5 +40,20 @@ lapply(myfiles, function(i){
 
 ```
 
+# Analyzing with the Topic Model tool
+
+* I used the Topic Modelling tool to analyze the text. I ran all the .txt OCR files through the tool, saving them in a separate folder.
+
+* Tried different combinations of topics - 4,5,10,15. For these many pages, the lower number of topics worked better. I used 4 to isolate the main topics.
+
+* Close reading of the text through opening the all_topics.html file.
+
+# Poster design
+
+* I used a simple poster template from Colin Purrington, available [here](https://colinpurrington.com/tips/poster-design/#templates)
+
+* The poster was edited in Powerpoint. Can be exported as PDF - File > Export
+
+
 
 
