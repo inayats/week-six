@@ -1,0 +1,25 @@
+# Analyzing the Young India magazine
+
+This week, we had to leave behind the crutch of step-by-step instructions and do our own bit of digital history. We had been set up with several tools to extract and process digital records in the beginning of this course, but even so it was a challenge to find a suitable source for analysis. I looked at several of the digital journals that were listed, but the way the information was organized varied wildly between websites.
+
+For example, I looked at the John Muir journals held by the University of the Pacific. Several Muir journals and text records are available on the university's website, along with transcription. But despite the information all being there, there is no easy one-click download option for all the data. The transcription is also not put into PDFs or any convenient format. While a lot of records have digitized, and even in some cases painstakingly transcribed, there seems to be significant variation in standards for making this information available (or not available) for download.
+
+I settled on the South Asian American Digital Archives, suggested in the thread by Amalia Skarlatou Levi. I found scanned copies of the Young India magazine, a journal published by the Indian Home Rule League in New York. The league advocated for India's independence amongst U.S. legislators, and I was interested to know how they were introducing India to their American audience. The U.S. never had colonial holdings in India, and Americans did not hold the same views as Europeans towards India and other colonized countries. So it was interesting to see how the league wanted India to be portrayed to Americans.
+
+The SAADA website, again, did not make it easy to extract large amounts of records. The issues of the magazine are available as images - and to view the images, you have use a slideshow tool within the website, added a layer of complexity. There isn't even a clear way to download the raw image individually - which would be too time-consuming anyway.
+
+These might make the website easier to use for a casual visitor, but it is not that friendly to a digital historian working with larger amounts of raw materials.
+
+So I had to use WGET and figure out the sequence in the URLs. Perhaps there is an argument here to introduce a set of digital archiving standards, specifically for how records should be presented online, and what raw formats should be made available for direct download. While WGET worked for me, it does present a technical challenge for other historians trying to quickly download this data.
+
+I also had to decide what I wanted to study, because I wasn't sure which of the Week 4 tools I wanted to use on these texts. Voyant, AntConc and Topic Models all try to find associations in the text, but which tool would get me closest to what I was looking for? I decided I wanted to know the "topics" Young India was addressing, and so the Topic Model tool was my best option. But if I was examining a greater volume of records, perhaps copies of a magazine from multiple years, then I would use the other tools to see how topics, or language in the magazine changed over the years (such as, demands for simple home rule graduating to full independence).
+
+The conclusions were interesting. The Young India magazine focused on: the history of India, descriptions of Indian culture and practices, appeals to American ideals of democracy and freedom, and explanations of how British rule had affected India's economy.
+
+I would contrast this with a more traditional form of analysis - reading all the issues. Could I have ascertained the topics that way? Yes - but the Topic Model tool looked at 54 pages in just a few seconds. While it took a while to get WGET set up, and then the OCR to work properly, all these steps could be scaled up easily to analyze hundreds of pages, which would be much more difficult to do by a traditional reading of the material.
+
+I put this in a poster, based on a template that could be edited in Microsoft Powerpoint, similar to how we worked with Inkscape to change fonts, text etc; With a one-page poster layout, it was important to keep things simple - although a lot more could be said about the materials I had downloaded. But here again, the tools of digital history let me keep it short. Using the Topic Model tool output, I could navigate through the various topics to see the text behind them, letting me move conveniently between a general and a close reading of the text - without reading all the 54 pages.
+
+Beyond the tools in this course, we have learned about the significance of all the decisions that go into collecting, organizing and presenting digital history. In this exercise, I got to think about all these steps, since I was doing it all myself. 
+
+I see my strengths and weaknesses here - while I was able to work through the steps of extracting the materials and OCR-ing them, I kept analysis part simple by sticking to one tool to get the information I wanted. I was also not as confident with my design skills, so I chose a simple poster design with minimal graphic elements. 
